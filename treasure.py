@@ -12,4 +12,18 @@ Contoh Output:
 Kata yang paling sering muncul adalah "harta"
 """
 arr = ["harta", "karun", "petualangan", "harta", "kunci", "harta", "petualangan", "harta"]
-# lanjutkan code dibawah ini
+
+# Dictionary untuk menyimpan frekuensi setiap kata
+count_dict = {}
+
+# Menghitung frekuensi
+for word in arr:
+    if word in count_dict:
+        count_dict[word] += 1
+    else:
+        count_dict[word] = 1
+
+# Mencari kata dengan frekuensi tertinggi
+max_word = max(count_dict, key=count_dict.get)
+
+print(f'Kata yang paling sering muncul adalah "{max_word}"')
