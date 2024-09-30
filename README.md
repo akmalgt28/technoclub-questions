@@ -7,8 +7,9 @@ Python adalah bahasa pemrograman **tingkat tinggi** yang terkenal karena sintaks
 - 🤖 Kecerdasan Buatan
 
 ## 👤 Pembuat
-**Nama:** [Muhammad Akmal Al Ghifari]  
-**Prodi:** [Teknik Informatika]
+**Nama:** Muhammad Akmal Al Ghifari
+**Prodi:** Teknik Informatika
+
 **Sosial Media:**  
 📸 [Instagram](https://instagram.com/akml_ghifar28)
 
