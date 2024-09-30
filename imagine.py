@@ -20,4 +20,12 @@ Output:
 Kamu boleh menyeberang jembatan
 """
 weight = 90
-# lanjutkan code dibawah ini
+
+# Menentukan batas berat untuk menyeberang jembatan
+batas_berat = 75
+
+# Memeriksa apakah berat badan memenuhi syarat
+if weight > batas_berat:
+    print("Kamu boleh menyeberang jembatan")
+else:
+    print("Kamu tidak boleh menyeberang jembatan")
