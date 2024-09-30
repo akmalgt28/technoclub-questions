@@ -35,7 +35,12 @@ for i in range(jumlah_penumpang):
     
     print()
     
-    # lanjutkan code dibawah ini
+    # Menyimpan data penumpang ke dalam dictionary
+    penumpang.append({
+        'nama': nama,
+        'umur': umur,
+        'asal planet': asal_planet
+    })
     
 print(penumpang)
 
