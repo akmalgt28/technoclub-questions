@@ -17,7 +17,6 @@ arr = range(1, 100)
 # Menggunakan list comprehension untuk memfilter angka ganjil
 ganjil = [x for x in arr if x % 2 != 0]
 
-# Menampilkan hasil
 print(ganjil)
 
 
