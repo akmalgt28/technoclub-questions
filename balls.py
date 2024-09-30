@@ -14,4 +14,8 @@ Total buah yang dikumpulkan selama seminggu adalah 280
 """
 buah = [10, 20, 30, 40, 50, 60, 70]
 
-# lanjutkan code dibawah ini
+# Menghitung total buah
+total_buah = sum(buah)
+
+# Menampilkan hasil
+print(f"Total buah yang dikumpulkan selama seminggu adalah {total_buah}")
