@@ -14,4 +14,7 @@ C C
 """
 tech = ['T', 'E', 'C', 'H', 'N', 'O', 'C', 'L', 'U', 'B']
 
-# lanjutkan code dibawah ini
+# Menampilkan huruf 'C'
+for letter in tech:
+    if letter == 'C':
+        print(letter, end=' ')
