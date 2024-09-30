@@ -14,4 +14,7 @@ Output:
 """
 angka = [4, 2, 1, 3, 5]
 
-# lanjutkan code dibawah ini
+# Mengurutkan angka
+angka.sort() 
+
+print(angka)
