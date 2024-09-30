@@ -1,11 +1,17 @@
-# Belajar Python
+# 🌟 Belajar Python
 
-Python adalah bahasa pemrograman tingkat tinggi yang terkenal karena sintaksisnya yang sederhana dan kemudahan penggunaannya. Cocok untuk pemula maupun profesional, Python digunakan dalam berbagai bidang seperti pengembangan web, data science, dan kecerdasan buatan.
+Python adalah bahasa pemrograman **tingkat tinggi** yang terkenal karena sintaksisnya yang **sederhana** dan **mudah digunakan**. Cocok untuk pemula maupun profesional, Python digunakan dalam berbagai bidang seperti:
 
-## Pembuat
+- 🕸️ Pengembangan Web
+- 📊 Data Science
+- 🤖 Kecerdasan Buatan
+
+## 👤 Pembuat
 **Nama:** [Nama Anda]  
-**Sosial Media:** [Twitter](https://twitter.com/username) | [LinkedIn](https://www.linkedin.com/in/username)
+**Sosial Media:**  
+🌐 [Twitter](https://twitter.com/username) |  
+💼 [LinkedIn](https://www.linkedin.com/in/username)
 
 ---
 
-Selamat belajar Python dan semoga sukses!
+Selamat belajar Python dan semoga sukses! 🚀
